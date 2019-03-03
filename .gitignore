@@ -12,6 +12,9 @@
 node_modules/
 .tmp/
 
+.gitignore
+package-lock.json
+
 # OS or Editor folders
 .DS_Store
 Thumbs.db
